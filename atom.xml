@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-18T12:18:26.621Z</updated>
+  <updated>2020-02-13T08:52:34.155Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,24 +17,50 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2019/09/18/hello-world/"/>
-    <id>http://yoursite.com/2019/09/18/hello-world/</id>
-    <published>2019-09-18T13:28:43.675Z</published>
-    <updated>2019-09-18T12:18:26.621Z</updated>
+    <title>符文法师 - 瑞兹</title>
+    <link href="http://yoursite.com/2020/02/13/%E7%AC%A6%E6%96%87%E6%B3%95%E5%B8%88%20-%20%E7%91%9E%E5%85%B9/"/>
+    <id>http://yoursite.com/2020/02/13/符文法师 - 瑞兹/</id>
+    <published>2020-02-13T05:41:30.000Z</published>
+    <updated>2020-02-13T08:52:34.155Z</updated>
     
-    <content type="html"><![CDATA[<p><code>Hello World!</code> 我最喜欢的一段代码，没有之一</p><hr><p>再来一句我喜欢的诗句镇站</p><blockquote><p>​    住进布达拉宫，我是雪域最大的王</p><p>​    流浪再拉萨街头，我是世间最美的情郎</p><p>​     —— 仓央嘉措</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h1 id="符文法师-瑞兹"><a href="#符文法师-瑞兹" class="headerlink" title="符文法师 - 瑞兹"></a>符文法师 - 瑞兹</h1><p><img src="D:\IT\Git\Blog\source\_posts\images\lol\Ryze.png" width="100px" height="100px"></p><h4 id="技能连招"><a href="#技能连招" class="headerlink" title="技能连招"></a>技能连招</h4><blockquote><p>（1）稳定控制 + 伤害： E W Q E Q   </p></blockquote><blockquote><p>（2）军体拳： Q E Q W Q E Q  ；手速够快下，可以打出控制效果</p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;code&gt;Hello World!&lt;/code&gt; 我最喜欢的一段代码，没有之一&lt;/p&gt;
+        &lt;h1 id=&quot;符文法师-瑞兹&quot;&gt;&lt;a href=&quot;#符文法师-瑞兹&quot; class=&quot;headerlink&quot; title=&quot;符文法师 - 瑞兹&quot;&gt;&lt;/a&gt;符文法师 - 瑞兹&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;D:\IT\Git\Blog\source\_posts\images\
+      
+    
+    </summary>
+    
+      <category term="LOL" scheme="http://yoursite.com/categories/LOL/"/>
+    
+    
+      <category term="LOL" scheme="http://yoursite.com/tags/LOL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/09/18/hello-world/"/>
+    <id>http://yoursite.com/2019/09/18/hello-world/</id>
+    <published>2019-09-18T13:28:43.675Z</published>
+    <updated>2020-02-13T06:55:59.697Z</updated>
+    
+    <content type="html"><![CDATA[<p><code>Hello World!</code> </p><hr><p>镇站</p><blockquote><p>​    住进布达拉宫，我是雪域最大的王</p><p>​    流浪再拉萨街头，我是世间最美的情郎</p><p>​     —— 仓央嘉措</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;code&gt;Hello World!&lt;/code&gt; &lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;再来一句我喜欢的诗句镇站&lt;/p&gt;
+&lt;p&gt;镇站&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;​    住进布达拉宫，我是雪域最大的王&lt;/p&gt;
-&lt;p&gt;​    流浪再拉萨街头，我是世间最美的情郎&lt;
+&lt;p&gt;​    流浪再拉萨街头，我是世间最美的情郎&lt;/p&gt;
+&lt;p&gt;​     —— 仓央嘉措&lt;/p&gt;
       
     
     </summary>
@@ -65,7 +91,7 @@
     <link href="http://yoursite.com/2019/09/18/%E7%AC%AC%E4%BA%8C%E7%AF%87-%E6%9A%97%E9%AD%82/"/>
     <id>http://yoursite.com/2019/09/18/第二篇-暗魂/</id>
     <published>2019-09-18T09:51:30.000Z</published>
-    <updated>2019-09-18T12:38:34.300Z</updated>
+    <updated>2020-02-13T05:41:53.010Z</updated>
     
     <summary type="html">
     
