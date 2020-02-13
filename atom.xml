@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-13T09:05:59.053Z</updated>
+  <updated>2020-02-13T09:10:01.175Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2020/02/13/Ryze/"/>
     <id>http://yoursite.com/2020/02/13/Ryze/</id>
     <published>2020-02-13T09:04:30.000Z</published>
-    <updated>2020-02-13T09:05:59.053Z</updated>
+    <updated>2020-02-13T09:10:01.175Z</updated>
     
     <content type="html"><![CDATA[<h1 id="符文法师-瑞兹"><a href="#符文法师-瑞兹" class="headerlink" title="符文法师 - 瑞兹"></a>符文法师 - 瑞兹</h1><p><img src="D:\IT\Git\Blog\source\_posts\images\lol\Ryze.png" width="100px" height="100px"></p><h4 id="技能连招"><a href="#技能连招" class="headerlink" title="技能连招"></a>技能连招</h4><blockquote><p>（1）稳定控制 + 伤害： E W Q E Q   </p></blockquote><blockquote><p>（2）军体拳： Q E Q W Q E Q  ；手速够快下，可以打出控制效果</p></blockquote>]]></content>
     
@@ -35,8 +35,6 @@
     </summary>
     
       <category term="LOL" scheme="http://yoursite.com/categories/LOL/"/>
-    
-      <category term="分类2" scheme="http://yoursite.com/categories/LOL/%E5%88%86%E7%B1%BB2/"/>
     
     
       <category term="LOL" scheme="http://yoursite.com/tags/LOL/"/>
