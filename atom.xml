@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-02-19T10:42:15.765Z</updated>
+  <updated>2020-02-19T10:50:41.247Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,17 @@
     <link href="http://yoursite.com/2020/02/19/%E6%AE%8B%E6%9C%88%E4%B9%8B%E8%82%83-%E5%8E%84%E6%96%90%E7%90%89%E6%96%AF/"/>
     <id>http://yoursite.com/2020/02/19/残月之肃-厄斐琉斯/</id>
     <published>2020-02-19T09:53:05.000Z</published>
-    <updated>2020-02-19T10:42:15.765Z</updated>
+    <updated>2020-02-19T10:50:41.247Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="残月之肃-厄斐琉斯"><a href="#残月之肃-厄斐琉斯" class="headerlink" title="残月之肃 - 厄斐琉斯"></a>残月之肃 - 厄斐琉斯</h1><h4 id="武器"><a href="#武器" class="headerlink" title="武器"></a>武器</h4><blockquote><p>通碧 - 狙击枪</p><p>断魄 - 短镰枪</p><p>坠明 - 加农炮</p><p>荧焰 - 喷火枪</p><p>折镜 - 环刃</p></blockquote><h4 id="技能机制"><a href="#技能机制" class="headerlink" title="技能机制"></a>技能机制</h4><blockquote><p>主武器Q 触发副武器平A效果</p><p>技能R触发主武器平A效果（不同主武器R追加效果比一样）</p></blockquote><h4 id="武器组合（较强的）"><a href="#武器组合（较强的）" class="headerlink" title="武器组合（较强的）"></a>武器组合（较强的）</h4><blockquote><p>主武器：断魄   +  副武器：折镜</p><p>主武器：荧焰   +  副武器：折镜</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<h1 id="残月之肃-厄斐琉斯"><a href="#残月之肃-厄斐琉斯" class="headerlink" title="残月之肃 - 厄斐琉斯"></a>残月之肃 - 厄斐琉斯</h1><p>###武器</p><blockquote><p>通碧 - 狙击枪</p><p>断魄 - 短镰枪</p><p>坠明 - 加农炮</p><p>荧焰 - 喷火枪</p><p>折镜 - 环刃</p></blockquote><p>###技能机制</p><blockquote><p>主武器Q 触发副武器平A效果</p><p>技能R触发主武器平A效果（不同主武器R追加效果比一样）</p></blockquote><p>###武器组合（较强的）</p><blockquote><p>主武器：断魄   +  副武器：折镜</p><p>主武器：荧焰   +  副武器：折镜</p><p>远程POKE ： 轮子（放炮台） + 散弹枪 / 狙击枪</p></blockquote>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;残月之肃-厄斐琉斯&quot;&gt;&lt;a href=&quot;#残月之肃-厄斐琉斯&quot; class=&quot;headerlink&quot; title=&quot;残月之肃 - 厄斐琉斯&quot;&gt;&lt;/a&gt;残月之肃 - 厄斐琉斯&lt;/h1&gt;&lt;h4 id=&quot;武器&quot;&gt;&lt;a href=&quot;#武器&quot; class=&quot;headerli
+        &lt;h1 id=&quot;残月之肃-厄斐琉斯&quot;&gt;&lt;a href=&quot;#残月之肃-厄斐琉斯&quot; class=&quot;headerlink&quot; title=&quot;残月之肃 - 厄斐琉斯&quot;&gt;&lt;/a&gt;残月之肃 - 厄斐琉斯&lt;/h1&gt;&lt;p&gt;###武器&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;通碧 - 狙击枪&lt;/p&gt;
       
     
     </summary>
